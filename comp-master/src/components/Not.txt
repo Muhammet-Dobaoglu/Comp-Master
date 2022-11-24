@@ -1,0 +1,4 @@
+2 Çeşit Components mevcut
+1-Class based (Miladı doldu)
+
+2-Function based (Yeni projeler)
